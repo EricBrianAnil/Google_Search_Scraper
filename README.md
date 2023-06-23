@@ -1,5 +1,5 @@
-#Search_Scraper
-Scraping n Google searches using the googleapi client and Youtube Data Api as part of a Listed assessment
+# Search_Scraper
+Scraping 'n' Searches using the googleapi client and Youtube Data Api as part of a Listed assessment
 
 ## To Use
 1. Modify the environment variable (.env) using your own API Key and version
